@@ -64,14 +64,43 @@ Verifica-se o progresso de um projeto a partir do momento em que consegue-se ent
 
 * **Sustentabilidade**
 
-É necessário que os projetos desenvolvidos com metodologias àgeis sejam sustentáveis, visando que o ambiente de desenvolvimento seja favorável para que o trabalho se sustente em ritmo constante. Os recursos disponíveis para o projeto não devem ser esgotados, pelo contrário, devem ser multiplicados visando utilizações futuras. O objetivo primário é combater a insatisfação e minimizar a perda de talentos através de condição de trabalhos recompensadoras. 
+É necessário que os projetos desenvolvidos com metodologias àgeis sejam sustentáveis, visando que o ambiente de desenvolvimento seja favorável para que o trabalho se sustente em ritmo constante. Os recursos disponíveis para o projeto não devem ser esgotados, pelo contrário, devem ser multiplicados visando utilizações futuras. O objetivo primário é combater a insatisfação e minimizar a perda de talentos através de condição de trabalho recompensadoras. 
 
+* **Revisão**
 
+Uma revisão técnica é muito importante para que seja possível entregar um produto final de excelência, que atenda a todas as expectativas do cliente. Ela preza para que todo o trabalho seja feito uma vez com excelência, evitando que haja a necessidade de refazer mais de uma vez afim de agilizar os processos, possibilitado por ciclos de desenvolvimento, teste e análise de feedback. Após a implementação de cada funcionalidade ela passa por um processo de de revisão para manter o código limpo e funcional ao longo de todo o projeto.
 
+* **Simplicidade**
+
+_Simplicidade é a arte de maximizar a quantidade de trabalho que **não** precisou ser feito_
+
+Nas metodologias ágeis valoriza-se muito a máxima _menos é mais_. Processos são menos complexos para que sejam conduzidos com mais agilidade reduzindo a suscetibilidade de erros.
+
+* **Organização**
+
+Os profissionais que compõe a equipe ágil são capazes de se organizar sozinhos, sem a necessidade da intervenção de um gerente. O time sabe o que precisa ser feito e tem a autonomia de decidir a melhor forma de fazê-lo.
+
+* **Autoavaliação**
+
+Os profissionais possuem a liberdade para observar o próprio desempenho afim de identificar oportunidades para aprimoramento, com o objetivo final de maximizar a qualidade de suas entregas e, claro, tornar o processo mais ágil. 
 
 ## 🏆 Scrum  
+O Scrum é uma metodologia ágil, também referida como _framework_, muito utilizada para equipes se auto-organizarem enquanto trabalham para obtenção de um objetivo em comum. 
+
 ### 📅 Sprints  
 (O que são sprints e como funcionam no Scrum?)
+É um periodo limitado a um mês ou até menos na qual uma versão funcional e utilizável do projeto será desenvolvida. O próprio nome, provém do termo em inglês _sprint_, uma categorai de corrida em que o competidor deve percorrer uma distância curta em um período de tempo ainda mais curto. A ideia do sprint em scrum é que seja alcançada uma meta dentro de um determinado período de tempo, e que o produto esteja "pronto" ao final. 
+
+A duração do sprint é tida como _time-boxed_, limitada a um periodo que pode variar de uma até quatro semanas dependendo da produtividade da equipe para entregar uma funcionalidade completa. No entanto, uma vez decidida a duração da sprint, ela deverá ser mantida até o final do projeto.
+
+Curiosamente, a própria sprint pode ser considerada um projeto, já que conta com uma delimitação de tempo, um plano de execução e um restultado esperado. 
+
+**Como funciona uma Sprint** 
+
+Para a realização de uma sprint, existem quatro eventos além da execução do projeto em sí, estes sendo: a reunião de planejamento da sprint, reuniões diárias, reunião de de revisão da sprint e a sua retrospectiva. Participarão destes eventos os integrantes do Time Scrum, que são: PO (Product Owner); Scrum Master e o próprio Time de Desenvolvimento. 
+
+
+
 
 ### 💬 Cerimônias  
 (Descreva as principais cerimônias do Scrum.)
