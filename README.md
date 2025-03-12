@@ -89,15 +89,15 @@ O Scrum é uma metodologia ágil, também referida como _framework_, muito utili
 
 ### 📅 Sprints  
 (O que são sprints e como funcionam no Scrum?)
-É um periodo limitado a um mês ou até menos na qual uma versão funcional e utilizável do projeto será desenvolvida. O próprio nome, provém do termo em inglês _sprint_, uma categorai de corrida em que o competidor deve percorrer uma distância curta em um período de tempo ainda mais curto. A ideia do sprint em scrum é que seja alcançada uma meta dentro de um determinado período de tempo, e que o produto esteja "pronto" ao final. 
+É um periodo limitado a um mês ou até menos na qual uma versão funcional e utilizável do projeto será desenvolvida. O próprio nome, provém do termo em inglês _sprint_, uma categoria de corrida em que o competidor deve percorrer uma distância curta em um período de tempo ainda mais curto. A ideia do sprint em scrum é que seja alcançada uma meta dentro de um determinado período de tempo, e que o produto esteja "pronto" ao final. 
 
 A duração do sprint é tida como _time-boxed_, limitada a um periodo que pode variar de uma até quatro semanas dependendo da produtividade da equipe para entregar uma funcionalidade completa. No entanto, uma vez decidida a duração da sprint, ela deverá ser mantida até o final do projeto.
 
 Curiosamente, a própria sprint pode ser considerada um projeto, já que conta com uma delimitação de tempo, um plano de execução e um restultado esperado. 
 
-**Como funciona uma Sprint** 
+### 💬 Cerimônias  
 
-Para a realização de uma sprint, existem quatro eventos além da execução do projeto em sí, estes sendo: a reunião de planejamento da sprint, reuniões diárias, reunião de de revisão da sprint e a sua retrospectiva. Participarão destes eventos os integrantes do Time Scrum, que são: PO (Product Owner); Scrum Master e o próprio Time de Desenvolvimento. 
+Para a realização de uma sprint, existem quatro eventos, ou cerimônias, além da execução do projeto em sí, estes sendo: a reunião de planejamento da sprint, reuniões diárias, reunião de de revisão da sprint e a sua retrospectiva. Participarão destes eventos os integrantes do Time Scrum, que são: PO (Product Owner); Scrum Master e o próprio Time de Desenvolvimento. 
 
 Como funciona cada evento:
 
@@ -147,11 +147,10 @@ Participam dessa reunião o Time de Desenvolvimento, e o _Scrum Master_, cuja re
 
 Assim, o final dessa reunião marca o final oficial da Sprint, o produto será a relação das melhorias a serem implementadas no próximo ciclo. 
 
-### 💬 Cerimônias  
-(Descreva as principais cerimônias do Scrum.)
-
 ## 🎯 Kanban  
 (Explique o funcionamento do Kanban e sua aplicação.)
+
+da uma olhada nisso aqui depois: https://sebrae.com.br/Sebrae/Portal%20Sebrae/Arquivos/ebook_sebrae_metodo-kanban.pdf
 
 ## 🚀 Extreme Programming (XP)  
 (Quais são os princípios do XP?)
