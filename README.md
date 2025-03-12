@@ -117,7 +117,15 @@ Por fim é feito o _Sprint Backlog_, a junção dos itens selecionados do Backlo
 
 Após a reunião, é iniciada a etapa da execução do projeto, o time de desenvolvimento começa a trabalhar seguindo os planos de entrega planejados, sempre atentos aos requisitos do projeto demonstrados pelo **PO**, e ao prazo final da Sprint. 
 
-Conforme mencionado anteriormente, esta etapa pode durar de uma semana à quatro, o tempo variando da produtividade da equipe. O mais importante é que seja um prazo de semanas exatas para facilitar o monitoramento. 
+Conforme mencionado anteriormente, essa etapa pode durar de uma semana à quatro, o tempo variando da produtividade da equipe. O mais importante é que seja um prazo de semanas exatas para facilitar o monitoramento. 
+
+3. **Reunião diária**
+
+Também conhecida como _Daily Sprints_, o time de desenvolvimento se reune afim de avaliar o andamento das atividades e definir o que sera feito naquele dia para alcançar as metas da sprint.  
+
+Essas reuniões normalmente são realizadas no mesmo local e horário, e é recomendável que o time de desenvolvimento participe da _Daily Sprint_ em pé, afim de evitar que ela ultrapasse o _time-box_ de 15 minutos. 
+
+to usando esse artigo de referencia: https://artia.com/blog/sprint/
 
 ### 💬 Cerimônias  
 (Descreva as principais cerimônias do Scrum.)
