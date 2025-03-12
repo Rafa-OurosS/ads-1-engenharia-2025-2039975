@@ -99,7 +99,17 @@ Curiosamente, a própria sprint pode ser considerada um projeto, já que conta c
 
 Para a realização de uma sprint, existem quatro eventos além da execução do projeto em sí, estes sendo: a reunião de planejamento da sprint, reuniões diárias, reunião de de revisão da sprint e a sua retrospectiva. Participarão destes eventos os integrantes do Time Scrum, que são: PO (Product Owner); Scrum Master e o próprio Time de Desenvolvimento. 
 
+Como funciona cada evento:
 
+1. **Reunião de Planejamento da Sprint**
+
+Também conhecida como _Sprint Planning_, é o evento que acontece antes de qualquer sprint, tendo como objetivo definir **o que poderá ser entregue na sprint** e **como o trabalho será realizado para alcançar essa entrega**
+
+Todos os integrantes do time scrum devem participar dessa reunião, que tem uma duração máxima de até oito horas, mas para sprints menores a duração tende a ser menor também.
+
+O PO abre a reunião apresentando os itens do Backlog que precisam ser entregues na sprint, e o Time de Desenvolvimento deverá avaliar o que será possível entregar dentro do período determinado.
+
+É estabelecida a meta da sprint, que corresponde com os itens do backlog, e o time de desenvolvimento decidirá como desenvolver as funcionalidades necessárias. 
 
 
 ### 💬 Cerimônias  
