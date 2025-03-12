@@ -109,8 +109,15 @@ Todos os integrantes do time scrum devem participar dessa reunião, que tem uma 
 
 O PO abre a reunião apresentando os itens do Backlog que precisam ser entregues na sprint, e o Time de Desenvolvimento deverá avaliar o que será possível entregar dentro do período determinado.
 
-É estabelecida a meta da sprint, que corresponde com os itens do backlog, e o time de desenvolvimento decidirá como desenvolver as funcionalidades necessárias. 
+É estabelecida a meta da sprint, que corresponde com os itens do backlog, e o time de desenvolvimento decidirá como desenvolver as funcionalidades necessárias. O time começa a desenhar o sistema e separar o trabalho em unidades de um dia de duração ou até mesmo menos, inclusive é permitido convidarem outras pessoas para participar da reunião para que contribuam com opiniões técnicas externas. 
 
+Por fim é feito o _Sprint Backlog_, a junção dos itens selecionados do Backlog principal do projeto, e seus planos de entrega. 
+
+2. **Desenvolvimento**
+
+Após a reunião, é iniciada a etapa da execução do projeto, o time de desenvolvimento começa a trabalhar seguindo os planos de entrega planejados, sempre atentos aos requisitos do projeto demonstrados pelo **PO**, e ao prazo final da Sprint. 
+
+Conforme mencionado anteriormente, esta etapa pode durar de uma semana à quatro, o tempo variando da produtividade da equipe. O mais importante é que seja um prazo de semanas exatas para facilitar o monitoramento. 
 
 ### 💬 Cerimônias  
 (Descreva as principais cerimônias do Scrum.)
