@@ -123,9 +123,29 @@ Conforme mencionado anteriormente, essa etapa pode durar de uma semana à quatro
 
 Também conhecida como _Daily Sprints_, o time de desenvolvimento se reune afim de avaliar o andamento das atividades e definir o que sera feito naquele dia para alcançar as metas da sprint.  
 
-Essas reuniões normalmente são realizadas no mesmo local e horário, e é recomendável que o time de desenvolvimento participe da _Daily Sprint_ em pé, afim de evitar que ela ultrapasse o _time-box_ de 15 minutos. 
+As _Daily Sprint_ normalmente são realizadas no mesmo local e horário, e é recomendável que o time de desenvolvimento participe das reuniões em pé, visando de evitar que ela ultrapasse o _time-box_ de 15 minutos. 
 
-to usando esse artigo de referencia: https://artia.com/blog/sprint/
+Vale lembrar que o **PO** e o _Scrum Master_ não participam dessas reuniões, pois o time de desenvolvimento é auto-organizado e possui autonomia para decidir como será realizado o trabalho. 
+
+Existem três perguntas que devem ser respondidas em toda _Daily Sprint_:
+
+* **O que eu fiz ontem que ajudou o time a alcançar a meta da Sprint?**
+* **O que farei hoje para ajudar o time a alcançar a meta da Sprint?**
+* **Existe algum obstáculo impedindo o time de alcançar a meta da Sprint?**
+
+4. **Revisão da Sprint**
+
+Quando a Sprint termina, deve ser realizada a _Sprint Review_, afim de inspecionar o resultado e adaptar o Backlog do projeto caso seja necessário. Toda a equipe Scrum participa dessa etapa que tem o _time-box_ de quatro horas. 
+
+Os principais pontos tratados durante a revisão envolvem o esclarecimento do time de desenvolvimento sobre os itens e metas que foram concluídos, bem como aqueles que não foram, é feita uma reflexão sobre o que deu certo e os desafios que foram encontrados, e são feitas sujestões pelo Time Scrum para o que deverá ser feito a seguir, sempre levando em consideração a linha do tempo, as mudanças no mercado, as prioridades e o orçamento. O objetivo aqui é atualizar o Backlog do Projeto, que poderá ser utilizado para planejar a próxima Sprint. 
+
+5. **Retrospectiva da Sprint**
+
+Enquanto a _Sprint Review_ busca avaliar o trabalho do Time de Desenvolvimento, a _Sprint Retrospective_ funciona como uma oportunidade para que o time avalie a si mesmo, refletindo sobre suas praticas e definindo o que pode ser aprimorado para a próxima Sprint. 
+
+Participam dessa reunião o Time de Desenvolvimento, e o _Scrum Master_, cuja responsabilidade é ensinar a equipe a seguir o processo Scrum, e ficar dentro do _timb-bos_ de três horas. O _Scrum Master_ deve encorajar a equipe a melhorar o processo de desenvolvimento baseado no _framework_ do Scrum, ajudando no planejamento de formas para aumentar a qualidade do projeto. 
+
+Assim, o final dessa reunião marca o final oficial da Sprint, o produto será a relação das melhorias a serem implementadas no próximo ciclo. 
 
 ### 💬 Cerimônias  
 (Descreva as principais cerimônias do Scrum.)
