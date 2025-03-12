@@ -1,4 +1,4 @@
-# ads-1-engenharia-2025-2039975
+  # ads-1-engenharia-2025-2039975
 
 # Diário de Engenharia de Software - Rafael Augusto Moreira dos Ouros
 
@@ -50,7 +50,22 @@ Visa entregar o software e implementar mudanças solicitadas com frequência, em
 
 Visa que as equipes ágeis atuem de maneira colaborativa entre sí e com o cliente para qual o projeto está destinado. É um principio muito importante para validar cada etapa concluída do processo e entregar um produto final personalizado que atenda as expectativas do cliente. Também reduz a incidencia de conflitos entre desenvolvedores e clientes ao evitar polarizações. 
 
-terminar a pesquisa com esse link: https://www.zendesk.com.br/blog/principios-ageis/
+* **Motivação**
+
+Um dos princípios fundamentais do Manifesto Ágil, é necessário oferecer aos desenvolvedores os recursos necessários para que possam desenvolver o projeto e dar aos envolvidos o suporte adequado para o exercício de suas funções. 
+
+* **Comunicação**
+
+A comunicação entre os membros de uma equipe ágil deve ser o mais clara possível afim de evitar que surjam interpretações equivocadas, o que pode comprometer  a qualidade das entregas. Os envolvidos precisam ter acesso à boas ferramentas de comunicação, mas o debate frente a frente encorajado sempre que possivel para facilitar o processo de apresentação de problemas e obtenção de soluções, baseado na perspectiva alheia.
+
+* **Funcionalidade**
+
+Verifica-se o progresso de um projeto a partir do momento em que consegue-se entregar funcionalidade. 
+
+* **Sustentabilidade**
+
+É necessário que os projetos desenvolvidos com metodologias àgeis sejam sustentáveis, visando que o ambiente de desenvolvimento seja favorável para que o trabalho se sustente em ritmo constante. Os recursos disponíveis para o projeto não devem ser esgotados, pelo contrário, devem ser multiplicados visando utilizações futuras. O objetivo primário é combater a insatisfação e minimizar a perda de talentos através de condição de trabalhos recompensadoras. 
+
 
 
 
