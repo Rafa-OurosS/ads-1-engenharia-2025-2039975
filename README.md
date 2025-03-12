@@ -40,6 +40,18 @@ Essa pratica incentiva a coleta de feedback e comprometimento dos desenvolvedore
 
 * **Flexibilidade**
 
+Visa estar aberto à eventuais mudanças que podem se fazer necessárias ao longo do projeto, comunicando que nem tudo precisa ser seguido à risca.
+
+* **Frequência**
+
+Visa entregar o software e implementar mudanças solicitadas com frequência, em períodos de meses ou semanas, preferencialmente periodos mais curtos. Ele visa realizar entregas frequentes, e nao exclusivamente quando o projeto estiver finalizado. Basicamente visando a entrega de um produto funcional e posterior inclusão de funções por meio de atualizações, entregando valor ao cliente.
+
+* **União**
+
+Visa que as equipes ágeis atuem de maneira colaborativa entre sí e com o cliente para qual o projeto está destinado. É um principio muito importante para validar cada etapa concluída do processo e entregar um produto final personalizado que atenda as expectativas do cliente. Também reduz a incidencia de conflitos entre desenvolvedores e clientes ao evitar polarizações. 
+
+terminar a pesquisa com esse link: https://www.zendesk.com.br/blog/principios-ageis/
+
 
 
 ## 🏆 Scrum  
