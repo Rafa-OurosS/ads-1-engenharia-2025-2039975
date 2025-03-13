@@ -150,7 +150,13 @@ Assim, o final dessa reunião marca o final oficial da Sprint, o produto será a
 ## 🎯 Kanban  
 (Explique o funcionamento do Kanban e sua aplicação.)
 
-da uma olhada nisso aqui depois: https://sebrae.com.br/Sebrae/Portal%20Sebrae/Arquivos/ebook_sebrae_metodo-kanban.pdf
+Um sistema visual é definido em um quadro separado por colunas afim de divir o trabalho em seguimentos de desenvolvimento, Cada item à ser desenvolvido é fixado em um cartão e colocado na coluna associada indicando onde ele está localizado no fluxo de trabalho. Os cartões descrevem o desenvolvimento do projeto, e também pode-se atribuir limites à quantos itens do quadro estão sendo trabalhados por vez. Afim de indicar e limitar o _WIP_ (Work in Progress). 
+
+
+
+da uma olhada nisso aqui depois: https://sebrae.com.br/Sebrae/Portal%20Sebrae/Arquivos/ebook_sebrae_metodo-kanban.pdf até que é util esse ebook
+
+mas vai por esse artigo aqui pra terminar: https://www.totvs.com/blog/negocios/kanban/
 
 ## 🚀 Extreme Programming (XP)  
 (Quais são os princípios do XP?)
