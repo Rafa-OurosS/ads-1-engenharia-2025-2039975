@@ -155,11 +155,20 @@ Um sistema visual é definido em um quadro separado por colunas afim de divir o 
 O quadro Kanban, primordialmente é dividido em três colunas;
 
 * _To do_ (a fazer)
+
+Também pode ser chamada de _Backlog_, é interessante gerenciá-la como um fluxo constante, ou seja: _Sempre que um cartão sai da coluna "Doing", um dessa coluna toma seu lugar._
+ 
 * _Doing_ (fazendo)
+
+Nessa coluna encontram-se os cartões representante das tarefas que estão sendo executadas e desenvolvidas.
+
 * _Done_ (feito)
 
-Isso possibilita uma visualização simples porém objetiva de todo o processo de desenvolvimento, sinalizando à equipe de desenvolvimento quanto do trabalho já foi realizado. Porém isso não significa que todo quadro Kanban **deve** possuir apenas três colunas, isso varia do fluxo de trabalho, por exemplo: não é incomum que a primeira coluna à esquerda seja representativa do _backlog_.
+Representa as tarefas concluídas, o objetivo é sempre arrastar todos os cartões para essa coluna o mais rápido possível. 
 
+Isso possibilita uma visualização simples porém objetiva de todo o processo de desenvolvimento, sinalizando à equipe de desenvolvimento quanto do trabalho já foi realizado. Porém isso não significa que todo quadro Kanban **deve** possuir apenas essas colunas, isso varia do fluxo de trabalho, por exemplo: é comum que a primeira coluna à esquerda seja representativa do _backlog_, composto de cartões com tarefas que deverão ser feitas, mas que não tem urgência, ou que deverão ser realizadas só futuramente. Também pode haver uma coluna de revisão ou aprovação do trabalho que foi realizado. 
+
+O foco da metodologia é otimizar a produtividade das equipes de desenvolvimento, motivando sua eficiência e agilidade por meio do estímulo visual dos cartões e quadro. Fora que proporciona a visualização atual do progresso feito no projeto, isso também potencializa a produtividade pois torna as execuções mais objetivas.  
 
 da uma olhada nisso aqui depois: https://sebrae.com.br/Sebrae/Portal%20Sebrae/Arquivos/ebook_sebrae_metodo-kanban.pdf até que é util esse ebook
 
