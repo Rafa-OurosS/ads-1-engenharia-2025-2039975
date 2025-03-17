@@ -150,8 +150,15 @@ Assim, o final dessa reunião marca o final oficial da Sprint, o produto será a
 ## 🎯 Kanban  
 (Explique o funcionamento do Kanban e sua aplicação.)
 
-Um sistema visual é definido em um quadro separado por colunas afim de divir o trabalho em seguimentos de desenvolvimento, Cada item à ser desenvolvido é fixado em um cartão e colocado na coluna associada indicando onde ele está localizado no fluxo de trabalho. Os cartões descrevem o desenvolvimento do projeto, e também pode-se atribuir limites à quantos itens do quadro estão sendo trabalhados por vez. Afim de indicar e limitar o _WIP_ (Work in Progress). 
+Um sistema visual é definido em um quadro separado por colunas afim de divir o trabalho em segmentos de desenvolvimento, Cada item à ser desenvolvido é fixado em um cartão e colocado na coluna associada indicando onde ele está localizado no fluxo de trabalho. Os cartões descrevem o desenvolvimento do projeto, e também pode-se atribuir limites à quantos itens do quadro estão sendo trabalhados por vez. Afim de indicar e limitar o _WIP_ (Work in Progress). 
 
+O quadro Kanban, primordialmente é dividido em três colunas;
+
+*_To do_ (a fazer)
+*_Doing_ (fazendo)
+*_Done_ (feito)
+
+Isso possibilita uma visualização simples porém objetiva de todo o processo de desenvolvimento, sinalizando à equipe de desenvolvimento quanto do trabalho já foi realizado. Porém isso não significa que todo quadro Kanban **deve** possuir apenas três colunas, isso varia do fluxo de trabalho, por exemplo: não é incomum que a primeira coluna à esquerda seja representativa do _backlog_.
 
 
 da uma olhada nisso aqui depois: https://sebrae.com.br/Sebrae/Portal%20Sebrae/Arquivos/ebook_sebrae_metodo-kanban.pdf até que é util esse ebook
