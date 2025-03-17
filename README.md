@@ -154,9 +154,9 @@ Um sistema visual é definido em um quadro separado por colunas afim de divir o 
 
 O quadro Kanban, primordialmente é dividido em três colunas;
 
-*_To do_ (a fazer)
-*_Doing_ (fazendo)
-*_Done_ (feito)
+* _To do_ (a fazer)
+* _Doing_ (fazendo)
+* _Done_ (feito)
 
 Isso possibilita uma visualização simples porém objetiva de todo o processo de desenvolvimento, sinalizando à equipe de desenvolvimento quanto do trabalho já foi realizado. Porém isso não significa que todo quadro Kanban **deve** possuir apenas três colunas, isso varia do fluxo de trabalho, por exemplo: não é incomum que a primeira coluna à esquerda seja representativa do _backlog_.
 
