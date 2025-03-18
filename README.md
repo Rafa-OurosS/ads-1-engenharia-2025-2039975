@@ -197,11 +197,19 @@ o trabalho em equipe é uma das premissas do XP e, para isso, é preciso que os 
 
 ## 🔧 Ferramentas de Gestão de Desenvolvimento  
 ### 💪 GitHub / GitLab  
-(Descreva o uso dessas ferramentas no gerenciamento de projetos.)
 
 Ambos são plataformas de hospedagem de códigos-fonte, elas permitem que o profissional de desenvolvimento contribua com os demais profissionais em projetos particulares ou públicos, também conhecidos como _Open Source_.
 
-Uma das principais funcionalidades que difere as duas plataformas, é o foco que o GitLab vem dando à integração de opções e ferramentas DevOps. O GitLab
+Uma das principais funcionalidades que difere as duas plataformas, é o foco que o GitLab vem dando à integração de opções e ferramentas DevOps. O GitLab proporciona nativamente ferramentas de entrega contínua e integração Ci/CD, além de métricas para acompanhamento de qualidade de código, performance e teste de usabilidade. 
+
+Ambas as plataformas fazem controle de versões dos projetos hospedados, possibilitando que o usuário acompanhe o versionamento do seu repositório em qualquer uma dessas plataformas. 
+
+Ambas as plataformas são excelentes para hospedagem de código, vai do usuário verificar qual se adequa melhor ás suas necessidades antes de utilizar. 
 
 ### 🎮 Jira / Trello  
 (Explique como essas ferramentas auxiliam na organização e acompanhamento de tarefas.)
+
+* **Jira**
+
+Permite o monitoramento das tarefas e processos de desenvolvimento 
+
