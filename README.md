@@ -220,4 +220,7 @@ Uma funcionalidade oferecida pelo Jira, é o quadro de tarefas com visualizaçã
 Similar ao Jira no quesito de ser uma plataforma de gerenciamento de projetos, porém o Trello é direcionado especificamente para projetos de desenvolvimento de software e aplicações, podendo ser conectado à outras aplicações como GitHub e Slack. 
 
 Entre suas funcionalidades está o quadro de tarefas interativo, similar ao Jira com seu Kanban digital, e com os _Power-Ups_ é possível conectar-se com o Google-Drive, calendário e até mesmo contador de dias, para monitorar há quanto tempo determinado cartão está em determinada coluna. 
-s
+
+
+Quadro de organização utilizado no Trello:
+![image](https://github.com/user-attachments/assets/64d4fe95-04e4-4e36-ab12-c32e36b2cb92)
