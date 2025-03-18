@@ -148,9 +148,8 @@ Participam dessa reunião o Time de Desenvolvimento, e o _Scrum Master_, cuja re
 Assim, o final dessa reunião marca o final oficial da Sprint, o produto será a relação das melhorias a serem implementadas no próximo ciclo. 
 
 ## 🎯 Kanban  
-(Explique o funcionamento do Kanban e sua aplicação.)
 
-Um sistema visual é definido em um quadro separado por colunas afim de divir o trabalho em segmentos de desenvolvimento, Cada item à ser desenvolvido é fixado em um cartão e colocado na coluna associada indicando onde ele está localizado no fluxo de trabalho. Os cartões descrevem o desenvolvimento do projeto, e também pode-se atribuir limites à quantos itens do quadro estão sendo trabalhados por vez. Afim de indicar e limitar o _WIP_ (Work in Progress). 
+Um sistema visual representado por cartões é definido em um quadro separado por colunas afim de divir o trabalho em segmentos de desenvolvimento. Cada item à ser desenvolvido é fixado em um cartão e colocado na coluna associada indicando onde ele está localizado no fluxo de trabalho. Os cartões descrevem o desenvolvimento do projeto, e também pode-se atribuir limites à quantos itens do quadro estão sendo trabalhados por vez. Afim de indicar e limitar o _WIP_ (Work in Progress). 
 
 O quadro Kanban, primordialmente é dividido em três colunas;
 
@@ -170,16 +169,39 @@ Isso possibilita uma visualização simples porém objetiva de todo o processo d
 
 O foco da metodologia é otimizar a produtividade das equipes de desenvolvimento, motivando sua eficiência e agilidade por meio do estímulo visual dos cartões e quadro. Fora que proporciona a visualização atual do progresso feito no projeto, isso também potencializa a produtividade pois torna as execuções mais objetivas.  
 
-da uma olhada nisso aqui depois: https://sebrae.com.br/Sebrae/Portal%20Sebrae/Arquivos/ebook_sebrae_metodo-kanban.pdf até que é util esse ebook
-
-mas vai por esse artigo aqui pra terminar: https://www.totvs.com/blog/negocios/kanban/
-
 ## 🚀 Extreme Programming (XP)  
 (Quais são os princípios do XP?)
+
+Também conhecida como XP ou no português, _Programação Extrema_, trata-se de um método de desenvolvimento englobado nas Metodologias Ágeis. Seus princípios são:
+
+* **Comunicação**
+
+Naturalmente, a comunicação é a base fundamental de qualquer projeto. O extreme programming propõe conversas presenciais frequentes entre desenvolvedores e clientes para que haja um entendimento preciso e objetivo de suas necessidades, e também para que este tenha ciência das possibilidades e objetivos do sistema. 
+
+* **Sinmplicidade**
+
+O _XP_ prioriza apenas o que é absolutamente necessário para o projeto, visando evitar desperdícios, reduzir custos e tempo de desenvolvimento, assim como manter o design e funcionalidades o mais simples e intuitivas possível, de utilizar.
+
+* **Feedback**
+
+O feedback constante por meio de retornos e comentários é crucial para a eficácia de ajustes rápidos no projeto.
+
+* **Coragem**
+
+Crucial para estar aberto à mudanças, lidar com as falhas e aceitar feedbacks, expor suas ideias de melhorias e saber dizer não quando for necessário. 
+
+* **Respeito**
+
+o trabalho em equipe é uma das premissas do XP e, para isso, é preciso que os membros se respeitem, aceitem sugestões, colaborem entre si e prezem por um bom relacionamento.
+
 
 ## 🔧 Ferramentas de Gestão de Desenvolvimento  
 ### 💪 GitHub / GitLab  
 (Descreva o uso dessas ferramentas no gerenciamento de projetos.)
+
+Ambos são plataformas de hospedagem de códigos-fonte, elas permitem que o profissional de desenvolvimento contribua com os demais profissionais em projetos particulares ou públicos, também conhecidos como _Open Source_.
+
+Uma das principais funcionalidades que difere as duas plataformas, é o foco que o GitLab vem dando à integração de opções e ferramentas DevOps. O GitLab
 
 ### 🎮 Jira / Trello  
 (Explique como essas ferramentas auxiliam na organização e acompanhamento de tarefas.)
