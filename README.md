@@ -211,5 +211,13 @@ Ambas as plataformas são excelentes para hospedagem de código, vai do usuário
 
 * **Jira**
 
-Permite o monitoramento das tarefas e processos de desenvolvimento 
+Permite o monitoramento das tarefas e processos de desenvolvimento, permitindo gerenciar todas as tarefas em uma unica plataforma. Ele funciona quase que como um site da empresa onde os desenvolvedores podem visualizar e receber demandas, e os times podem acompanhar o progresso do desenvolvimento e conseguiur uma maior organização. 
 
+Uma funcionalidade oferecida pelo Jira, é o quadro de tarefas com visualização de cartões separado por colunas, simulando um quadro Kanban digital. Além de outras funções interessantes para DevOps como gráficos e relatórios de rendimento e resultados. O que significa que é possivel acompanhar o desempenho de uma equipe ou mesmo de todo o projeto. 
+
+* **Trello**
+
+Similar ao Jira no quesito de ser uma plataforma de gerenciamento de projetos, porém o Trello é direcionado especificamente para projetos de desenvolvimento de software e aplicações, podendo ser conectado à outras aplicações como GitHub e Slack. 
+
+Entre suas funcionalidades está o quadro de tarefas interativo, similar ao Jira com seu Kanban digital, e com os _Power-Ups_ é possível conectar-se com o Google-Drive, calendário e até mesmo contador de dias, para monitorar há quanto tempo determinado cartão está em determinada coluna. 
+s
