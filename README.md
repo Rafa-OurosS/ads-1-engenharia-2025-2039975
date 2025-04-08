@@ -178,7 +178,7 @@ Também conhecida como XP ou no português, _Programação Extrema_, trata-se de
 
 Naturalmente, a comunicação é a base fundamental de qualquer projeto. O extreme programming propõe conversas presenciais frequentes entre desenvolvedores e clientes para que haja um entendimento preciso e objetivo de suas necessidades, e também para que este tenha ciência das possibilidades e objetivos do sistema. 
 
-* **Sinmplicidade**
+* **Simplicidade**
 
 O _XP_ prioriza apenas o que é absolutamente necessário para o projeto, visando evitar desperdícios, reduzir custos e tempo de desenvolvimento, assim como manter o design e funcionalidades o mais simples e intuitivas possível, de utilizar.
 
